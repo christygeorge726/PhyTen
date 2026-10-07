@@ -1,2 +1,2 @@
 # PhyTen
-TMS-EEG artifact remover
+TMS-EEG artifact cleaning tool
